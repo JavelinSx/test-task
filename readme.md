@@ -62,4 +62,4 @@
 +   Написать метод, который определяет, какие элементы присутствуют в двух экземплярах в каждом из массивов (= в двух и более, причем в каждом).
     На вход подаются два массива.
     На выходе массив с необходимыми совпадениями.
-    [task4 code](https://github.com/JavelinSx/test-task/blob/main/task%203%20code.js)
+    [task4 code](https://github.com/JavelinSx/test-task/blob/main/task%204%20code.js)
